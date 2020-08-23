@@ -1,6 +1,6 @@
 # Infrared Dark Clouds
 
-Being an astrophysicist we deal with huge amounts of raw data from the sky that is needed to be converted into meaningful realizations. In this project, a section of the sky was mapped showing line emission from the infrared dark clouds among the interstellar gas. The line emission is mainly restricted to $N_2H^+$ and $N_2D^+$. We determine the deuterium fraction ($N_2H^+$/$N_2D^+$) and calculate the total column density.
+Being an astrophysicist we deal with huge amounts of raw data from the sky that is needed to be converted into meaningful realizations. In this project, a section of the sky was mapped showing line emission from the infrared dark clouds among the interstellar gas. The line emission is mainly restricted to <img src="https://render.githubusercontent.com/render/math?math=N_2H^+ and N_2D^+">. We determine the deuterium fraction ($N_2H^+$/$N_2D^+$) and calculate the total column density.
 
 ## Packages used - 
 aplpy, numpy, astropy, scipy, math, spectral_cube
