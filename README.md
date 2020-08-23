@@ -20,7 +20,7 @@ Being an astrophysicist we deal with huge amounts of raw data from the sky that 
 9. Calculating total column density.
 
 ### Sliced cube
-After reading the fits file, I sliced the data and made a scatter plot for N2D+ vs N2H+.
+After reading the fits file, I sliced the data and made a scatter plot for N2D+ vs N2H+.  
 ![n2dp vs n2hp](/images/N2D+_vs_N2H+.png)
 
 ### Spectral cubes
