@@ -18,4 +18,4 @@ aplpy, numpy, astropy, scipy, math, spectral_cube
 
 ### Sliced cube
 After reading the fits file, I sliced the data and made a scatter plot for $N_2D^+ vs N_2H^+$.
-![$N_2D^+ vs N_2H^+$](C:/Users/dishu/Desktop/irdc_project/figs/N2D+_vs_N2H+.png)
+![$N_2D^+ vs N_2H^+$](N2D+_vs_N2H+.png)
