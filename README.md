@@ -20,7 +20,7 @@ Being an astrophysicist we deal with huge amounts of raw data from the sky that 
 
 ### Sliced cube
 After reading the fits file, I sliced the data and made a scatter plot for N2D+ vs N2H+.
-
+![n2dp vs n2hp](/images/N2D+_vs_N2H+.png)
 
 ### Spectral cubes
 I compared the velocity spectrum of both the molecules and increased the intensity of N2D+ to 5 times in order to match N2H+.
