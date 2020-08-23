@@ -23,3 +23,8 @@ After reading the fits file, I sliced the data and made a scatter plot for N2D+ 
 ### Spectral cubes
 I compared the velocity spectrum of both the molecules and increased the intensity of N2D+ to 5 times in order to match N2H+.
 ![spectral density](/images/vel_spec.png) ![spectral density 5 times](/images/vel_spec_factor5.png)
+
+### Contour maps
+I created contour maps for integrated intensity for both the molecules, the column density and temperature.
+![integrated intens](/images/contour_intensity_n2hp.png) ![integrated intensn2dp](/images/contour_intensity_n2dp.png)
+![column density](/images/contour_coldens.png) ![temperature](/images/contour_temp.png)
