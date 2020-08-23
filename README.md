@@ -6,6 +6,7 @@ Being an astrophysicist we deal with huge amounts of raw data from the sky that 
 **Python version** - 3.7.6  
 **Packages used** - aplpy, numpy, astropy, scipy, math, spectral_cube  
 **Reference** - https://academic.oup.com/mnras/article/458/2/1990/2589101  
+**Masking** - https://spectral-cube.readthedocs.io/en/latest/masking.html
 
 ## Steps taken -
 1. Converting the raw fits file into a 3D array.
@@ -20,7 +21,7 @@ Being an astrophysicist we deal with huge amounts of raw data from the sky that 
 
 ### Sliced cube
 After reading the fits file, I sliced the data and made a scatter plot for N2D+ vs N2H+.
-      ![n2dp vs n2hp](/images/N2D+_vs_N2H+.png)
+![n2dp vs n2hp](/images/N2D+_vs_N2H+.png)
 
 ### Spectral cubes
 I compared the velocity spectrum of both the molecules and increased the intensity of N2D+ to 5 times in order to match N2H+.
