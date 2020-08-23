@@ -22,4 +22,4 @@ After reading the fits file, I sliced the data and made a scatter plot for N2D+ 
 
 ### Spectral cubes
 I compared the velocity spectrum of both the molecules and increased the intensity of N2D+ to 5 times in order to match N2H+.
-![spectral density](cloudH-meanspec.pdf)
+![spectral density](/images/vel_spec.png)
