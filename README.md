@@ -24,7 +24,7 @@ After reading the fits file, I sliced the data and made a scatter plot for N2D+ 
 ![n2dp vs n2hp](/images/N2D+_vs_N2H+.png)
 
 ### Spectral cubes
-I compared the velocity spectrum of both the molecules and increased the intensity of N2D+ to 5 times in order to match N2H+.
+I compared the velocity spectrum of both the molecules and increased the intensity of N2D+ to 5 times in order to match N2H+.  
 ![spectral density](/images/vel_spec.png) ![spectral density 5 times](/images/vel_spec_factor5.png)
 
 ### Contour maps and masked moment map for N2H+
