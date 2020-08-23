@@ -2,10 +2,10 @@
 
 Being an astrophysicist we deal with huge amounts of raw data from the sky that is needed to be converted into meaningful realizations. In this project, a section of the sky was mapped showing line emission from the infrared dark clouds among the interstellar gas. The line emission is mainly restricted to N2H+ and N2D+. We determine the deuterium fraction (N2H+/N2D+) and calculate the total column density.
 
-## Code and resources - 
-**Python version** - 3.7.6
-**Packages used** - aplpy, numpy, astropy, scipy, math, spectral_cube
-**Reference** - https://academic.oup.com/mnras/article/458/2/1990/2589101
+## Code and resources 
+**Python version** - 3.7.6  
+**Packages used** - aplpy, numpy, astropy, scipy, math, spectral_cube  
+**Reference** - https://academic.oup.com/mnras/article/458/2/1990/2589101  
 
 ## Steps taken -
 1. Converting the raw fits file into a 3D array.
