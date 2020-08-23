@@ -18,7 +18,7 @@ aplpy, numpy, astropy, scipy, math, spectral_cube
 
 ### Sliced cube
 After reading the fits file, I sliced the data and made a scatter plot for N2D+ vs N2H+.
-![$N_2D^+ vs N_2H^+$](N2D+_vs_N2H+.png)
+ ![$N_2D^+ vs N_2H^+$](N2D+_vs_N2H+.png)
 
 ### Spectral cubes
 I compared the velocity spectrum of both the molecules and increased the intensity of N2D+ to 5 times in order to match N2H+.
