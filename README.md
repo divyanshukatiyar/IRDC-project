@@ -1,6 +1,6 @@
 # Infrared Dark Clouds
 
-Being an astrophysicist we deal with huge amounts of raw data from the sky that is needed to be converted into meaningful realizations. In this project, a section of the sky was mapped showing line emission from the infrared dark clouds among the interstellar gas. The line emission is mainly restricted to <img src="https://render.githubusercontent.com/render/math?math=N_2H^+ and N_2D^+">. We determine the deuterium fraction ($N_2H^+$/$N_2D^+$) and calculate the total column density.
+Being an astrophysicist we deal with huge amounts of raw data from the sky that is needed to be converted into meaningful realizations. In this project, a section of the sky was mapped showing line emission from the infrared dark clouds among the interstellar gas. The line emission is mainly restricted to N2H+ and N2D+. We determine the deuterium fraction (N2H+/N2D+) and calculate the total column density.
 
 ## Packages used - 
 aplpy, numpy, astropy, scipy, math, spectral_cube
@@ -17,5 +17,9 @@ aplpy, numpy, astropy, scipy, math, spectral_cube
 9. Calculating total column density.
 
 ### Sliced cube
-After reading the fits file, I sliced the data and made a scatter plot for $N_2D^+ vs N_2H^+$.
+After reading the fits file, I sliced the data and made a scatter plot for N2D+ vs N2H+.
 ![$N_2D^+ vs N_2H^+$](N2D+_vs_N2H+.png)
+
+### Spectral cubes
+I compared the velocity spectrum of both the molecules and increased the intensity of N2D+ to 5 times in order to match N2H+.
+![spectral density](cloudH-meanspec.pdf)
