@@ -30,3 +30,6 @@ I created contour maps for integrated intensity for both the molecules, the colu
 ![column density](/images/contour_coldens.png) ![temperature](/images/contour_temp.png)
 ![mom](/images/masked_n2hp_mom.png)
 
+### Deuterium fraction
+I have plotted the deuterium fraction against density and temperature and produced a linear fit for it.
+![deuterium fraction](/images/dfrac.png)
